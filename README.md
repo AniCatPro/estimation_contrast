@@ -2,8 +2,7 @@
 
 Программа для сравнения двух Excel файлов с подсветкой изменений, таких как различия в шапке, итогах и содержимом разделов. Результаты сохраняются в новом Excel файле с выделенными изменениями для удобства анализа.
 
-<img src="https://github.com/user-attachments/assets/4e1b4045-5b79-4cb4-88c1-19a6537990ad" alt="image" width="600">
-
+<img src="https://github.com/user-attachments/assets/690495de-ce92-414b-803e-1aeef262b185" alt="image" width="650">
 
 ## Особенности
 
